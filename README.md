@@ -37,4 +37,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-![İmage](C:\Users\hatic\Desktop\imageh.png)
+![İmage](C:\Users\hatic\Documents\GitHub\Patika.dev-SQL-Task-1)
